@@ -8,4 +8,4 @@ What if a small device could be mounted onto the turbine blade to monitor levels
 
 Using a hydrargyrum tilt module and an Arduino, we can monitor the forward tilt of the blade and signal an alert when the forward tilt of the blade is dangerously excessive.
 
-![Schematics](img/schematics.jpg)
+![Schematics](img/turbine-fatigue.jpg)
