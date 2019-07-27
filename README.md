@@ -4,7 +4,7 @@ Strong winds cause dangerous flapwise vibrations of wind turbine blade, leading 
 
 What if a small device could be mounted onto the turbine blade to monitor levels of blade fatigue in real-time so automated measures can be taken prior to excessive flapwise damage?
 
-![](img/turbine-crash.gif)
+![](img/turbine-test.gif)
 ![](img/diagram.jpeg)
 
 
